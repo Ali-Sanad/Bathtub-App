@@ -1,0 +1,54 @@
+.BathContainer {
+  width: 80%;
+  height: 120px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  box-sizing: border-box;
+  border: 5px solid black;
+  border-top: none;
+  margin-top: 200px;
+}
+
+.waterLevel {
+  height: 20px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+.container {
+  width: 100%;
+  font-size: 1rem;
+  margin: 50px auto;
+  text-align: center;
+}
+.increase {
+  background-color: lightskyblue;
+  width: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.decrease {
+  background-color: lightsalmon;
+  width: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin: 0 10px;
+  cursor: pointer;
+}
+button:active {
+  transform: scale(0.9);
+}
+.counter {
+  font-weight: bold;
+}
