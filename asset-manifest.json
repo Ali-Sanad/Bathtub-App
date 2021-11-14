@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bathtub-App/static/css/main.de7fc87a.chunk.css",
+    "main.js": "/Bathtub-App/static/js/main.72ca90ad.chunk.js",
+    "runtime-main.js": "/Bathtub-App/static/js/runtime-main.0837637b.js",
+    "static/js/2.330366a3.chunk.js": "/Bathtub-App/static/js/2.330366a3.chunk.js",
+    "index.html": "/Bathtub-App/index.html",
+    "static/js/2.330366a3.chunk.js.LICENSE.txt": "/Bathtub-App/static/js/2.330366a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0837637b.js",
+    "static/js/2.330366a3.chunk.js",
+    "static/css/main.de7fc87a.chunk.css",
+    "static/js/main.72ca90ad.chunk.js"
+  ]
+}
